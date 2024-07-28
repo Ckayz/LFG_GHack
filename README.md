@@ -42,15 +42,13 @@ This project aims to automate these processes using Google Apps Script and Googl
 
 ## 🚀 Installation
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/your-username/inventory-management-automation.git
-    ```
+1. **Download the Repository**:
+    
 2. **Open Google Sheets**:
     - Create a new Google Sheet or use an existing one.
 3. **Add Apps Script**:
     - Open the Script Editor in Google Sheets (Extensions > Apps Script).
-    - Copy and paste the code from the repository's `main.gs` file into the Script Editor.
+    - Copy and paste the code from the repository's `Inventory Management.Js` file into the Script Editor.
     - Save and name the script.
 4. **Authorize the Script**:
     - Run the script for the first time to authorize the necessary permissions.
@@ -65,16 +63,3 @@ This project aims to automate these processes using Google Apps Script and Googl
     - The script will automatically calculate reorder quantities and send emails to suppliers when thresholds are met.
 3. **Generate Reports**:
     - Use the built-in report generation features to monitor inventory levels and trends.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📬 Contact
-
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
-
